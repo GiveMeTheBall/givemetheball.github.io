@@ -1,3 +1,16 @@
+
+---
+layout:     post
+title:      "Hello 2015"
+subtitle:   "Hello World, Hello Blog"
+date:       2015-01-29 12:00:00
+author:     "JJJ"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Life
+---
+
+
 系统信息 
 arch 显示机器的处理器架构(1) 
 uname -m 显示机器的处理器架构(2) 
