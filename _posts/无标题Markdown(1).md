@@ -2,13 +2,17 @@
 ---
 layout:     post
 title:      "Hello 2018"
-subtitle:   "Hello World, Hello Blog"
+subtitle:   " \"Hello World, Hello Blog\""
 date:       2018-12-03 12:00:00
 author:     "JJJ"
 header-img: "img/post-bg-2015.jpg"
+catalog: true
 tags:
-    - Life
+    - 生活
+    - Meta
 ---
+
+> “Yeah It's on. ”
 
 
 系统信息 
