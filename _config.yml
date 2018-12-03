@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 贾俊江的博客 | JJJ Blog
+title: 队长给我球 Blog
+SEOTitle: 队长给我球的博客 | JJJ Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: "这里是 @贾俊江 的个人博客，与你一起发现更大的世界。"
-keyword: " 博客, 个人网站, 互联网, Web, JavaScript,"
+keyword: " 博客, 个人网站, 互联网, Web, JavaScript,java"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
