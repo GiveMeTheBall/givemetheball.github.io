@@ -62,7 +62,7 @@ kramdown:
 duoshuo_username：
 
 # Netease settings
-netease_comment: false
+netease_comment: true
 
 
 
@@ -102,7 +102,7 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
+   # {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
