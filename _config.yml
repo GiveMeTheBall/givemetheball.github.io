@@ -62,7 +62,7 @@ kramdown:
 duoshuo_username：
 
 # Netease settings
-netease_comment: true
+netease_comment: false
 
 
 
